@@ -1,0 +1,49 @@
+.container {
+    width: 717px;
+    height: 321px
+}
+
+.logo {
+    padding-top: 93px;
+    padding-left: 80px
+}
+
+.container2 {
+    width:717px;
+    height: 542px
+}
+
+.title {
+    font-size: 65px;
+    color: #ffffff;
+    padding-left: 80px
+}
+
+.subtitle {
+    color: #c0ccc8;
+    font-size: 40px
+}
+
+.container3 {
+    width: 717px;
+    height: 388px
+}
+
+.fingertip {
+    padding-left:80px
+}
+
+.container4{
+    width: 717px;
+    height: 448px
+}
+
+.bottom {
+    font-size: 40px;
+    color: #ffffff
+}
+
+.subbottom{
+    font-size: 30px;
+    color: #ffffff
+}
