@@ -1,0 +1,31 @@
+.card {
+    width: 340px;
+    height: 306px;
+    float: right;
+    margin-top: 47px
+}
+
+.digit {
+    font-size: 30px;
+    margin-left: 25px;
+    font-weight: bold;
+    color: #ffffff  
+}
+
+.align {
+    display: flex
+}
+
+.icon {
+    width: 68px;
+    height: 69px;
+}
+
+.place {
+    font-size: 20px;
+    
+}
+
+.language{
+    font-size: 15px
+}
